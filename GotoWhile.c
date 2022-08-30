@@ -5,7 +5,7 @@ int main(){
 int num,lim,i;
 
 printf("====================================================\n");
-printf("       TABLAS DE MULTIPLICAR DIABOLICAS          \n\n");
+printf("       TABLAS DE MULTIPLICAR DIABOLICAS           \n\n");
 
 	printf("Ingresa un numero: ");
 	scanf("%d",&num);
